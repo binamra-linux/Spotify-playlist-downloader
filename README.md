@@ -3,3 +3,7 @@
 This program usages FFMPEG.
 
 Download FFMPEG folder and paste it in the same dir as this main.py
+
+# Installation
+`pip install -r requirements.txt
+`
